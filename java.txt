@@ -3,17 +3,4 @@ class HelloWorld {
         System.out.println("Hello, World!"); 
     }
 }
-ajavaaa
-method
-SSSSS
-MMMMM
-assssss
-mmmmmsssppppp
-anbhjedgcueduiduc
-cdshgesadguaesgcuidscguidc
-asxasjhsahuasgkjasbs
-adchsachsauh
-xyz
-mnopqrst
-syhatagagtagtag
-1111134353e36
+
