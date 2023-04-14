@@ -3,9 +3,10 @@ class HelloWorld {
         System.out.println("Hello, World!"); 
     }
 }
-Line of code 
-code 
-Coding 
-Advance Coding 
-Advanc Coding
-Commands
+
+
+class Simple{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
+}  
