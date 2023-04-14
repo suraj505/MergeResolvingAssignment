@@ -3,8 +3,6 @@ class HelloWorld {
         System.out.println("Hello, World!"); 
     }
 }
-Line of code 
-code 
-Coding 
-Advanc Coding
-Commands
+
+char[] ch={'j','a','v','a','t','p','o','i','n','t'};  
+String s=new String(ch);  
