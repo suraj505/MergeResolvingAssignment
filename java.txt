@@ -7,3 +7,5 @@ Line of code
 code 
 Coding 
 Advance Coding 
+Advanc Coding
+Commands
